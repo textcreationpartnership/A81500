@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dirge for the directory. Written by one of King Iames ancient Protestants</title>
+            <author>One of King James ancient Protestants.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81500</idno>
+            <idno type="STC">Wing D1555</idno>
+            <idno type="STC">Thomason E293_10</idno>
+            <idno type="STC">ESTC R200162</idno>
+            <idno type="EEBO-CITATION">99860967</idno>
+            <idno type="PROQUEST">99860967</idno>
+            <idno type="VID">113094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81500)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113094)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E293[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dirge for the directory. Written by one of King Iames ancient Protestants</title>
+                  <author>One of King James ancient Protestants.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, printer to the Vniversity of Oxford.,</publisher>
+                  <pubPlace>Oxford, [i.e. London] :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The imprint is false. "It is really printed in London, the Oxford imprint being counterfeited. The printing is too rude for Lichfield's press."--Madan.</note>
+                  <note>Annotation on Thomason copy: "July 18th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113094:1" rendition="simple:additions"/>
+            <p>A DIRGE FOR THE Directory.</p>
+            <p>Written By one of King IAMES ancient PROTESTANTS.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>Leonard Lichfield,</hi> Printer to the Vniverſity of <hi>Oxford.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:113094:2"/>
+            <pb n="1" facs="tcp:113094:2"/>
+            <head>A DIRGE FOR THE DIRECTORIE.</head>
+            <p>I Cannot but admire to ſee ſo many learned Divines ſo much of late metamorphoſed, that have ſo many yeares profeſſed the Proteſtant Religion in the purity of it, and now had their eye ſight more cleere then any in queene <hi>Elizabeth</hi> and King <hi>Iames</hi> his reigne, and ſixteene yeares of King <hi>Charles,</hi> and never writ againſt it till now: and I am perſwaded there are very few that are good Proteſtants that gave their conſent for the utter aboliſhing the Service Book, till they had made ſome good proviſion for the weaker ſort of Proteſtants: for in many hundred of Churches in <hi>England</hi> that have not meanes to main<g ref="char:EOLhyphen"/>taine a Preacher to inſtruct the people in the knowledge of Gods lawes, there is not a Sermon in halfe a yeare: and this I<g ref="char:EOLhyphen"/>doll, as many call it, being taken away, what groſſe ignorance will theſe poore ſoules fall into? For if you tell them of pray<g ref="char:EOLhyphen"/>ing by the ſpirit, you may as well tell them a tale of the man in the Moone. I am perſwaded in my heart, that many of the an<g ref="char:EOLhyphen"/>cient Fathers that had a hand in the compoſing and contriving of that worthy Booke, were indued with Gods Spirit; witneſſe their godly and learned Bookes they writ, their holy lives they led in godly converſation and doctrine; nay, and have they not laid downe their lives, and rid in chariots of fire to maintaine that very ſame Booke that now many giddie-headed fellowes <pb n="2" facs="tcp:113094:3"/>which have ſcarce any religion at all in them, but meere time-ſervers, blowne about with every blaſt of light doctrine, that will be Anabaptiſt to day, a Browniſt to morrow, and in a word any thing the next day. O lamentable! what times doe we live in? when the Church is without true diſcipline, Gods Lawes quite taken from us, no Lords Prayer, no Greed, no Common Prayer allowed, but Maſter <hi>Presbyter</hi> to doe as his fickle braine ſerves him, the Sacrament of the Lords Supper not adminiſtred once in halfe a yeare, and when it is delivered wonderfull out of order it is; the Sacrament of Baptiſme cele<g ref="char:EOLhyphen"/>brated as any would have it that is in fee with Maſter Parſon; the dead body buried with five or ſix words at the moſt; no de<g ref="char:EOLhyphen"/>cency in the Churches, no manners no <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>der, forgeting that God is the God of order. I doe not ſpeak, againſt praying by the Spirit, for I know that Gods peoplle prayes prayed as they felt their wants; but for poore ignorant people, who have not the ſpirit of prayer, what proviſion have, you made for them? the anſwer is, luſt none. What ſhall become of them? Your, anſwer muſt bee, you muſt leave them to Gods mercy, But I and many more would have thought you had ſome charity in you, but in leaving poore ignorant people quite without any way to know God or his will, I thinke you have done worſe then the ſuperſtitious Papiſt ever did to the Heathen where they conquered. Was there ever any Kingdome in the Chriſtian world that flouriſhed more for a moſt fourſcore yeares, then this Kingdome did all the reigne of queene
+<hi>Elizabeth,</hi> King <hi>Iames,</hi> and ſixteene yeares of King
+<hi>Charles</hi> his reigne? ſurely God hath great plagues for this ungratefull Nation. You of the Synod, ſle<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pe not upon this thing called 4. ſhillings a day, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill you have done ſome ſervice for the poore ignorant people of this diſtreſſed Nation, that <hi>Gods name may be known on earth, and his ſaving health to all Iſrael.</hi> Wee are not ignorant that when any came to be buried with decency, and the Miniſter <pb n="3" facs="tcp:113094:3"/>ſhewed that man was mortall, it did the party deceaſed neither good nor harme<g ref="char:punc">▪</g> but the ſlanders by might know what a flou<g ref="char:EOLhyphen"/>riſhing eſtate man was to day, and in a moment cut off by the hand of death. For the receiving the Sacraments, which are the ſeales and pledges of Gods love to his Church til he doth come, and to receive him often till hee comes, now how often is it wonderfully neglected? So for the Sacrament of Baptiſme, the reading of Gods Commandements, and in a word Gods whole maner of decency in his true ſervice wholly neglected. Nay it is ſpoken openly, that a ſtable is as good as any church whatſoever, forgetting that the Iewes which were the choſen people of God, had their Synagogues to heare the Laws of God read and expounded to them; and the Temple where the Prieſts did offer ſacrifice to God for appeaſing of his anger againſt his people. I doe not intend to make two or three yeares worke to give direction by way of a Directory, and wrangle and braule with my <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for it; but I had rather ſpend my life in inſtru<g ref="char:EOLhyphen"/>cting the poore people in the true knowledge of Gods Lawes and command-ments; then to take part of any thing whatſoever to hinder Gods people from his known will. For in hath been an ancient thing which the church of <hi>Rome</hi> uſed to keepe the common people ignorant, that the better they might work their ends by their ſimplicity: and if you take theſe courſes, the fur<g ref="char:EOLhyphen"/>ther you goe from Popery, the higher you come to them.</p>
+            <p>When the Chriſtians in the Primitive church had their pri<g ref="char:EOLhyphen"/>vate meetings, the church was hidden, and it was death for any to profeſſe Chriſt openly, then cellars, garrets, and woods were their places of aſſembly: but who reigned then? <hi>Nero.</hi> But bleſſed be the name of God for evermore, we have the Word of God preached among us plentifully, we need not goe in corners and holes to heare Chriſt taught. I doe wonder that ſo many learned able Divines doe not gain ſome order againſt this
+<hi>New-England</hi> b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood but I am perſwaded in my heart that many are <pb n="4" facs="tcp:113094:4"/>partakers with them, and will not or dare not write or once open the mouthes againſt then. Blame me not though I urge this againe and againe, for I verily beleeve
+<hi>Ananias</hi> the Button maker, <hi>Flaſh</hi> the cobler, Nondependants, doe more harme to poore ſoules, ſpecially to poore women, by one of their tongue Sermons, then many of your Presbyterian Sermons doe good in halfe a year: for come into the Church, who preaches there? non-decency, all without order or forme. For your Prelaticall government, goe to all the Churches in Europe, you ſhall bee ſure to come ſhort of this that was in theſe latter times. Goe to all the Reformed Churches in the Chriſtian world, they did ſtand amazed at the government of the Church of <hi>England.</hi> But now what is become of it? truly the height of our glory is laid in the duſt, and we made a mocke and a wonder at. The Lord in his mercy open the hearts of thoſe who are in authority, to reforme theſe things, that theſe civill combuſtions in Ch<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rch and Kingdomes may ceaſe, that God may have his Word ſet<g ref="char:EOLhyphen"/>led in peace and quiet and his people may come to his Temple with ioy and gladneſſe; that God may be praiſed here in peace among his people for evermore I verily beleeve that if every Presbyterian Prieſt or Independant be left to doe what they will, we ſhall have more domineering and diſturbance in the Church then ever there was ſince the Church was firſt built up in <hi>England.</hi> What would you have then? would you have Bi<g ref="char:EOLhyphen"/>ſhop, which have bred all this broile among us? ye<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, provided that their Lordly dignities may be eclipſed, and preaching Bi<g ref="char:EOLhyphen"/>ſhops put in their rooms: not to have a High Commiſſio<g ref="char:cmbAbbrStroke">̄</g> court little inferiour to the inquiſition of <hi>Spaine,</hi> nor meddle with temporall affaires, but to preach the Word of God ſoundly, plainly, and powerfully; to root out hereſie and errour out of the Church of God, like a man of knowledge: who ſhall chuſe theſe good men? nor their rich kindred, nor the King, nor his money but their learning, godly lives, and converſation, &amp;c.</p>
+            <pb n="5" facs="tcp:113094:4"/>
+            <p>For prayer and confeſſion, we have them in the Book of com<g ref="char:EOLhyphen"/>mon Prayer excellently ſet downe; and alſo humiliation, with ſome amendments: but to take them quite away, I am humbly of opinion you greatly ſin againſt God and this poore Iſland of <hi>England;</hi> and I thinke as long as you keepe the Arke of God from us, I meane the Service Booke, you will ever have ſwellings and Emrods among you. I am no Prophet, nor the ſonne of a Prophet, but I pray God in his mercy keep you from theſe plagues which hang over your heads, for leaving ſo many poore diſtreſſed ſoules in want, not having the known will of God taught among them, who lye and languiſh for his knowne Lawes, and are kept ſhort of them by force. For the Letany, I ſhould have reioyced greatly if I could have ſeene but half ſuch good matter proceeded from you of the Synod; though I am not ignorant that there are ſome things that might have beene amended in ſome paſſages of them, but not utterly to have them rooted out: for thoſe that give their voices to put them quite out of the church, I pray God of his mercy that he one day put them nor quite out of the Kingdome of his mercy.</p>
+            <p>As for the order of reading the Old and New Teſtament once a yeare, what a comfort muſt it needs be to thoſe who can not read? What an excellent order is that of reading <hi>Davids</hi> Pſalmes once a moneth, indue place and order, which is not to be parallel'd by any Reformed church in the Chriſtian world, with many other excellent paſſages of great note and worth. Bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now that a company of ſhuttle-brain'd fellowes, who for their underſtanding and knowledge can ſcarce hold argument with a Schoole-boy, that theſe I ſay muſt have that godly Book quite taken away as a great Idoll in the church, what a kinde of madneſſe is it let all wiſe men iudge. I doe not write ſo much in the applauſe of the Booke of common Prayer, ſo to magnifie it as to put downe preaching, and to eaſe your lazie Prieſts of their paines in ſtudying, no, my earneſt deſire is that there may
+<pb n="6" facs="tcp:113094:5"/>be praying with the whole congregation together, and prea<g ref="char:EOLhyphen"/>ching too, that the Word may be taught plentifully among the poore people; and that wee which are the inhabitants of
+<hi>England</hi> may goe hand in hand, that God may have his due praiſe and glorie among us; and then we with you, and you with us may give God his due praiſe and honour both together which God in his mercy grant; and that we may ſit together every man under his owne Vine and Figtree. And to you the Brethren of the Separation, which have the ſpirit ſo much at command, and know Gods Word ſo well that you need no tea<g ref="char:EOLhyphen"/>cher, take from you the expoſition of the ancient Fathers, and other good mens workes, which you ſo much deſpiſe, and then take the bare Bible and fall to expounding the Scriptures, and I dare pawne my life for ſix pence you ſhall have as good non<g ref="char:EOLhyphen"/>ſenſe as you would deſire to heare. Goe backe, goe back, thou fooliſh man or woman, whatſoever thou art, and returne to thy mother the church of <hi>England,</hi> who firſt brought thee up to know God in
+<hi>Chriſt,</hi> and come out of theſe puddles, and light-headed fooleries, and know hee that takes hold of the Plough<g ref="char:punc">▪</g> and lookes backe, is unmeet for the Kingdome of God.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
